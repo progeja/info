@@ -5,3 +5,7 @@
 $ git init
 ```
 
+## Kõikide muudetud failide lisamine
+```
+$ git add .
+```
