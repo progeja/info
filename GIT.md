@@ -2,7 +2,7 @@
 
 | Käsk | Kirjeldus |
 | --- | --- |
-| --- | **Repo loomine** |
+| --- | **REPO LOOMINE** |
 | ``git init`` | Uue lokaalse repo loomine. |
 | ``git clone [REPO_URL]`` | Klooni olemasolev repo. |
 | --- | **Lokaalsed muudatused** |
