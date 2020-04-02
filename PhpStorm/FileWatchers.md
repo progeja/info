@@ -15,6 +15,7 @@ Algfailid on kaustas `/scss/*` ja kompileeritud tulemus peaks olema kaustas: `/h
 | **Arguments:** | `--update $FileName$:$ProjectFileDir$/htdocs/css/$FileNameWithoutExtension$.css` |
 | **Output paths to refresh:** | `$ProjectFileDir$/www/css/$FileNameWithoutExtension$.css:$ProjectFileDir$/www/css/$FileNameWithoutExtension$.css.map` |
 | **Working directory:** | $FileDir$ |
+
 **PS.** Kui on tegu mitme seotud projektikaustaga, siis võib kasutada ka `$ProjectFileDir` asemel `$FileParentDir$`, sest `$ProjectFileDir$` on seotud vaid põhiprojekti juurkaustaga.
 
 
