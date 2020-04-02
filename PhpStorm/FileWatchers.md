@@ -6,8 +6,8 @@ Algfailid on kaustas `/scss/*` ja kompileeritud tulemus peaks olema kaustas: `/h
 
 ### Seaded:
 
-Väli | Väärtus
+| Väli | Väärtus |
 
----|---
+| ----- | ----- |
 
-Name | SCSS
+| Name | SCSS |
