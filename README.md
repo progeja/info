@@ -1,6 +1,4 @@
----
-title: Notebook
----
+# Notebook
 
 ## Cheatsheets
 
